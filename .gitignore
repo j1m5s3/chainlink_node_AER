@@ -1,0 +1,17 @@
+# Folders #
+##############
+**/__pycache__/
+**/users/
+**/jobs/
+
+# Filetypes #
+##############
+*.pyc
+*.csv
+
+# Files #
+##############
+**/.pytest_cache
+**/.eggs
+**/*.egg-info
+**.cache
