@@ -20,3 +20,6 @@
 **/.eggs
 **/*.egg-info
 **.cache
+**/package.json
+**/package-lock.json
+**/yarn.lock
