@@ -6,6 +6,8 @@
 **/brownie
 **/chainlink_adapter_bridges_templates/
 **/fronend_test0/
+**/node_modules/
+**/request_records/
 
 # Filetypes #
 ##############
