@@ -3,6 +3,8 @@
 **/__pycache__/
 **/users/
 **/jobs/
+**/brownie
+**/chainlink_adapter_bridges_templates/
 
 # Filetypes #
 ##############
